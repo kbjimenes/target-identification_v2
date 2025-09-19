@@ -1,5 +1,5 @@
 # About
-This repository provides an official implementation of an algorithm for Activity cliff removal and a a set of Target-centric models (TCM) develop over CHEMBL database considering  for classification:.
+This repository provides an official implementation of an algorithm for Activity cliff removal and a a set of machine learning and deep-learning models  develop over CHEMBL database considering  for classification:.
 
 ## Environment Setup
 To set up the Python environment, use the provided `environment.yaml` file. Run the following command in Conda:
@@ -25,7 +25,7 @@ Run the script with the following command:
 python dd 0.8 data_with_ACs.csv data_without_ACs.csv
 ```
 
-## Target-Centric Models (TCM)
-This repository also includes Target-Centric Models (TCM) stored in the `TCM` folder. These models were trained using ChEMBL release 34 and consider two bioactivity cutoffs: 10 µM and 1 µM. A web tool also expose an interface to make the predictions based on an smile input at "bioquimio.udla.edu.ec" version 2. 
+## Models
+This repository also includes Target-Centric  (TCM) and Deep Learning models (DL) stored in the `MODELS` folder. These models were trained using ChEMBL release 34 and consider two bioactivity cutoffs: 10 µM and 1 µM. A web tool also expose an interface to make the predictions based on an smile input at "bioquimio.udla.edu.ec" version 2. 
 
 For more information, please check our article at: 
