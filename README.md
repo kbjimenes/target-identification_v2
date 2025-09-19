@@ -27,9 +27,11 @@ python remove_activity_cliff.py <threshold> <input_file> <output_file>
 
 The input dataset must include the following columns:
 
--TARGET_ID → target identifier.
--COMPOUND → SMILE compound .
--CLASS → activity label (active/inactive).
+- TARGET_ID → target identifier.
+
+- COMPOUND → SMILE compound .
+
+- CLASS → activity label (active/inactive).
 
 ### Example Usage
 
