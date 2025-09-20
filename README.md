@@ -49,6 +49,6 @@ This repository also includes Target-Centric  (TCM) and Deep Learning models (DL
 
 Additionally, a web-based tool is available at: "http://bioquimio.udla.edu.ec/tidentification02". 
 
-## Citation
+## Credit/Acknowledgment
 
-For more information, please check our article at:  Soon available. 
+This research was supported by Universidad de las Américas & Universidad da Coruña
