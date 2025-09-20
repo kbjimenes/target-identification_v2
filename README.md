@@ -51,4 +51,4 @@ Additionally, a web-based tool is available at: "http://bioquimio.udla.edu.ec/ti
 
 ## Credit/Acknowledgment
 
-This research was supported by Universidad de Las Américas & Universidad da Coruña
+This research was supported by Universidad de Las Américas, Ecuador & Universidad da Coruña, España
