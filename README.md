@@ -47,7 +47,7 @@ The DATA folder includes raw compound-target interaction datasets prepared with 
 
 This repository also includes Target-Centric  (TCM) and Deep Learning models (DL) stored in the `MODELS` folder. These optimized models were trained on curated datasets derived from ChEMBL release 34, following activity cliff removal, and were evaluated under two bioactivity thresholds: 10 µM and 1 µM.
 
-Additionally, a web-based tool is available at: "http://bioquimio.udla.edu.ec/tidentification02". 
+Additionally, a web-based tool is available at: "https://bioquimio.citic.gal/tidentification02". 
 
 ## Credit/Acknowledgment
 
